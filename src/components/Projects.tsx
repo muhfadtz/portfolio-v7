@@ -35,7 +35,7 @@ const projects: Project[] = [
       • Order management system
       • Integrated Direct Communication
       • Responsive design for all devices`,
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
+    image: '25.jpg',
     github: 'https://github.com/muhfadtz/Mobile-OnJasa',
     demo: '#',
     websiteUrl: '#',
@@ -63,7 +63,7 @@ const projects: Project[] = [
       • ChatBot integration
       • Compare Laptops
       • Responsive design for all devices`,
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
+    image: '26.png',
     github: 'https://github.com/muhfadtz/web-quell',
     demo: '#',
     websiteUrl: '#',
@@ -86,7 +86,7 @@ const projects: Project[] = [
     title: 'Web Application Social Media-Phrase',
     description: 'a social media platform designed specifically for sharing text with a focus on simplicity and efficiency. The app allows users to post, interact, and share ideas in written form, without the distraction of visual elements such as images or videos.',
     longDescription: `A minimalist social media platform focused on text-based interactions, designed for simplicity and efficiency. Users can post, engage, and share ideas through written content without the distraction of images or videos. The platform fosters meaningful discussions and seamless communication in a clutter-free environment`,
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
+    image: '27.png',
     github: 'https://github.com/muhfadtz/phrase-sosmed',
     demo: '#',
     websiteUrl: '#',
@@ -111,7 +111,7 @@ const projects: Project[] = [
     title: 'Machine Learning-Summarizer',
     description: 'Summarizer is a model for summarizing long text into points that can be retrieved easily. This was created with machine learning.',
     longDescription: `Machine Learning model for summaruzing long text into key points. The model also performs sentiment analysis to determine the overall tone of the text.`,
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
+    image: '28.png',
     github: 'https://github.com/muhfadtz/ML-Summarizer',
     demo: '#',
     websiteUrl: '#',
