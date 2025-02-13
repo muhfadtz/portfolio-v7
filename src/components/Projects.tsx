@@ -68,7 +68,7 @@ const projects: Project[] = [
     demo: '#',
     websiteUrl: '#',
     documentationUrl: '#',
-    tags: ['Python', 'Laravel', 'Machine Learning', 'Mysql', 'Bootstrap'],
+    tags: ['Python', 'Laravel', 'Machine Learning', 'NLP', 'Mysql', 'Bootstrap'],
     features: [
       'Authentication and authorization',
       'ChatBot integration',
@@ -116,7 +116,7 @@ const projects: Project[] = [
     demo: '#',
     websiteUrl: '#',
     documentationUrl: '#',
-    tags: ['Machine Learning', 'Python'],
+    tags: ['Machine Learning', 'Python', 'NLP',],
     features: [
       'Summarizing long text',
       'Sentiment analysis',
